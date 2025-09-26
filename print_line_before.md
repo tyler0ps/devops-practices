@@ -3,3 +3,4 @@ Print all matching lines (without the filename or the file path) in all files un
 Note that you will need to search recursively.
 
 grep -ih "404" -B1 **/access.log* | egrep -v "404|--" 
+awk '/404/{print x}{x=$0}' **/access.log*
