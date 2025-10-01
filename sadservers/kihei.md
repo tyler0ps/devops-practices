@@ -54,7 +54,7 @@ df -h /home/admin/data
 
 # 7) Run the challenge binary
 ./kihei -v
-
+```
 ---
 
 ## Full Command History (as executed)
