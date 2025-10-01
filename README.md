@@ -1,5 +1,8 @@
 Solutions for linux and devops challenges.
 
-[cmdchallenge](cmdchallenge/)
+- [x] [cmdchallenge](cmdchallenge/)
+- [ ] [sadservers](sadservers/)
+- [ ] iximiuz
 
-[sadservers](sadservers/)
+
+
