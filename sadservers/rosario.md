@@ -21,7 +21,7 @@ The host is limited (no internet, minimal tools). You have `sudo`.
 
 ```bash
 1  sudo systemctl stop mariadb.service
-2  sudo mysqld --skip-grant-tables
+2  sudo mysqld --skip-grant-tables &
 3  sudo mysqldump -u root main > sample_backup.sql
 4  cat sample_backup.sql
 5  sudo mysql -u root < backup.sql 
