@@ -1,8 +1,7 @@
 Solutions for linux and devops challenges.
 
-- [x] [cmdchallenge](cmdchallenge/)
-- [ ] [sadservers](sadservers/)
-- [ ] iximiuz
-
-
-
+- ✅ [cmdchallenge](cmdchallenge/)
+- ⏳ [sadservers](sadservers/)
+- ⭕ [iximiuz](https://labs.iximiuz.com/)
+- ⭕ [prepare.sh](https://prepare.sh/projects/devops)
+- ⭕ [devops-daily.com](https://devops-daily.com/exercises)
