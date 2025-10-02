@@ -26,7 +26,7 @@ The challenge was that each split file had to **retain the original CSV header**
 2. Split the original CSV into 10 parts:  
    ```bash
    split -n l/10 data.csv
-````
+   ```
 
 3. Verified line counts and renamed chunks:
 
