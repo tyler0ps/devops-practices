@@ -3,7 +3,7 @@
 Solutions for linux and devops challenges.
 
 - ✅ [cmdchallenge](cmdchallenge/)
-- ⏳ [sadservers](https://sadservers.com/scenarios) 28/72
+- ⏳ [sadservers](https://sadservers.com/scenarios) 29/72
 - ⏳ [iximiuz](https://labs.iximiuz.com/)
 - ⭕ [prepare.sh](https://prepare.sh/projects/devops)
 - ⭕ [devops-daily.com](https://devops-daily.com/exercises)
