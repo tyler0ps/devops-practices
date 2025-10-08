@@ -10,6 +10,6 @@ sed -i '/protocol: TCP/a\
           configMap:\
             name: {{ .Release.Name }}-cm-index-html' \
     templates/deployment.yaml
-sed -i 's/replicaCount: 3/replicaCount: 1/' values.yaml
+sed -i 's/replicaCount: 1/replicaCount: 3/' values.yaml
 helm upgrade --install web-chart -f values.yaml .
 ```
